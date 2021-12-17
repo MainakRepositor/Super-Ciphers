@@ -17,5 +17,5 @@ A collection of some of the amazing cryptographic ciphers in C++, Python and Jav
 
 -----------------------------------------------------------
 
-### Feel Free to Star this repo if you find it useful. 😊
+### Feel free to Star this repo if you find it useful. 😊
 
