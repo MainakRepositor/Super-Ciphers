@@ -1,9 +1,3 @@
-/*********
- -*- Made by VoxelPixel
- -*- For YouTube Tutorial
- -*- https://github.com/VoxelPixel
- -*- Support on me Patreon: https://www.patreon.com/voxelpixel
-*********/
 import java.util.Scanner;
 
 public class CaesarCipher {
