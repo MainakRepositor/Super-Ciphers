@@ -19,3 +19,7 @@ A collection of some of the amazing cryptographic ciphers in C++, Python and Jav
 
 ### Feel free to Star this repo if you find it useful. 😊
 
+### Project Logs:
+| Name of Creator | Start Date | End Date | Duration | Project Type | Deploy |
+|-----------------|------------|----------|----------|--------------|--------|
+| Mainak Chaudhuri | 15-12-2021 | 16-12-2021 | 1 day | Codes | NULL |
